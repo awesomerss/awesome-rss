@@ -23,7 +23,7 @@ email: awesomerss@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
  Sharing interesting stuffs about rss with you.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://awesomerss.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rss_is_awesome
 github_username:  awesomerss
 
