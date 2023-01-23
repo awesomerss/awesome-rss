@@ -26,6 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://awesomerss.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rss_is_awesome
 github_username:  awesomerss
+substack_subdomain: awesomerss
+telegram_channel_username: rss_is_awesome
 
 # Build settings
 theme: minima
